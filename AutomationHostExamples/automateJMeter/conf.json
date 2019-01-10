@@ -1,6 +1,6 @@
 {
-  "git_url": "<Your GitHub Web URL>",
+  "git_url": "https://github.com/maxkohler3",
   "local_repository": "jmeter-sample",
-  "qtest_api_token": "<Your API Token>",
-  "qtest_url": "<Your qTest URL>"
+  "qtest_api_token": "ZGVtb3xtYXhrb2hsZXJAcWFzeW1waG9ueS5jb206MTU3ODY2NzMzMDkzMTpjMGYwMWU3ZDFhOGRiOTdlMGEwYzRjMjk4NDE4ZTg1Ng",
+  "qtest_url": "https://demo.qtestnet.com"
 }
